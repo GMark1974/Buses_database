@@ -1,0 +1,111 @@
+{
+  "zones": [
+    {
+      "zoneNumber": 1,
+      "licensePlateNumbers": [
+        "HAB 101",
+        "HB106",
+        "HAC 111",
+        "HA 116",
+        "HX 121"
+      ],
+      "route": {
+        "name": "St. George's/Belmont/Grand Anse/Calliste/Grand Anse Valley",
+        "sticker": "Gold"
+      }
+    },
+    {
+      "zoneNumber": 2,
+      "licensePlateNumbers": [
+        "HAB 102",
+        "HB107",
+        "HAC 112",
+        "HA 117",
+        "HX 122"
+      ],
+      "route": {
+        "name": "St. George's/Springs/Woodlands/Woburn",
+        "sticker": "Orange"
+      }
+    },
+    {
+      "zoneNumber": 2,
+      "licensePlateNumbers": [
+        "HAB 103",
+        "HB108",
+        "HAC 113",
+        "HA 118",
+        "HX 123"
+      ],
+      "route": {
+        "name": "St. George's/Calivigny/Westerhall/Grenville",
+        "sticker": "Orange"
+      }
+    },
+    {
+      "zoneNumber": 3,
+      "licensePlateNumbers": [
+        "HAB 104",
+        "HB109",
+        "HAC 114",
+        "HA 119",
+        "HX 124"
+      ],
+      "route": {
+        "name": "St. George's/Richmond Hill/Morne Jaloux/Marian/Calivigny",
+        "sticker": "Purple"
+      }
+    },
+    {
+      "zoneNumber": 4,
+      "licensePlateNumbers": [
+        "HAB 105",
+        "HB110",
+        "HAC 115",
+        "HA 120",
+        "HX 125"
+      ],
+      "route": {
+        "name": "St. George's/St. Paul's/Perdmontemps/Vincennes/Old Westerhall/Beaton/Mardigras/La Borie",
+        "sticker": "Green"
+      }
+    },
+    {
+      "zoneNumber": 5,
+      "licensePlateNumbers": [
+        "HZ 126",
+        "HC 131",
+        "HE 136",
+        "HG 141",
+        "HB106"
+      ],
+      "route": {
+        "name": "St. George's/Concord/Grand Roy/Gouyave/Victoria/Sauteurs",
+        "sticker": "Yellow"
+      }
+    },
+    {
+      "zoneNumber": 6,
+      "licensePlateNumbers": [
+        "HZ 127",
+        "HC 132",
+        "HE 137",
+        "HG 142",
+        "HB107"
+      ],
+      "route": {
+        "name": "St. George's/Grand Etang/Birchgrove/Grenville",
+        "sticker": "Navy Blue"
+      }
+    },
+    {
+      "zoneNumber": 7,
+      "licensePlateNumbers": [
+        "HZ 128",
+        "HC 133",
+        "HE 138",
+        "HG 143",
+        "HB108"
+      ],
+      "route": {
+        "name": "St. George's/River Road/Queen's Park/Darbeau/Tempe/Mt. Parnassus/Beaulieu/Boca/Vendomme/Annad
